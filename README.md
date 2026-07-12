@@ -22,5 +22,3 @@ policy using Claude, prints verdicts, and logs every decision.
    ```
    export ANTHROPIC_API_KEY=your-key-here
    ```
-
-## Run it
